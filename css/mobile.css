@@ -71,7 +71,7 @@
   }
 
   .sobre-mim {
-    height: 2200px;
+    height: 2000px;
     display: flex;
     width: 100vw;
     align-items: center;
@@ -103,12 +103,16 @@
   }
 
   .contatos {
-    height: 800px;
+    height: 550px;
   }
 
   .social-container {
     flex-direction: column;
   }
+}
+
+.container-footer{
+  width: 250px;
 }
 
 .copy {

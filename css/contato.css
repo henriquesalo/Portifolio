@@ -1,5 +1,6 @@
 .contatos {
   width: 100%;
+  height: 20%;
   max-width: 1200px;
   display: grid;
   grid-template-areas:
@@ -42,6 +43,7 @@
 }
 
 .social {
+  border-radius: 50px;
   width: 64px;
   height: 64px;
   background-color: var(--icon-color);
