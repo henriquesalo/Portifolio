@@ -1,0 +1,16 @@
+.menu {
+  display: flex;
+  gap: 72px;
+  font-size: 1.25rem;
+  color: #7779;
+}
+
+.menu li {
+  border-bottom: 2px solid transparent;
+  transition: all 0.5s;
+}
+
+.menu li:hover {
+  border-color: var(--primary-color);
+  color: #fff;
+}
