@@ -1,4 +1,4 @@
-# **PORTIFÓLIO HENRIQUE SALOMÃO - 2023**
+# **PORTIFÓLIO HENRIQUE SALOMÃO**
 
 ## [Clique aqui](#) para acessar o site
 
